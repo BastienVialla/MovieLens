@@ -1,4 +1,4 @@
-## MovieLens recomandation model.
+## MovieLens recommandation model.
 MovieLens is a dataset of 20M ratings of more than 27 000 movies by more than 138 000 users, more infos [here](https://grouplens.org/datasets/movielens/).
 
 State of the art models uses:
