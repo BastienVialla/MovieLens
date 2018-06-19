@@ -5,7 +5,7 @@ State of the art models uses:
 * [matrix factorization](https://docs.treasuredata.com/articles/hivemall-movielens20m-fm) with RMSE of 0.80,
 * [autoencoders](https://arxiv.org/pdf/1606.07659.pdf) with RMSE of 0.81.
 
-We build a deep learning model using Entity Embeddings for Categorical Variables, from [this paper](https://arxiv.org/abs/1604.06737), that achieves an RMSE of 0.81, on par with state of the art models.
+We build a deep learning model using Entity Embeddings for Categorical Variables, from [this paper](https://arxiv.org/abs/1604.06737), that achieves an **RMSE of 0.81**, on par with state of the art models.
 The neural network is implement in Keras with TensorFlow backend. The code is in the "movienet.py" file, and the training is in the training notebook.
 
 A big plus of entity embedding is that during the training we compute an embedding space of movies and users. 
